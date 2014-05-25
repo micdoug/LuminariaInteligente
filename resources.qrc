@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/NavigationBar.qml</file>
+        <file>icon/back.png</file>
+        <file>qml/BackButton.qml</file>
+        <file>qml/MainPage.qml</file>
+        <file>bg/bg.png</file>
+        <file>qml/NavigationItem.qml</file>
+        <file>qml/ListButton.qml</file>
+        <file>qml/SendColorPage.qml</file>
+    </qresource>
+</RCC>
